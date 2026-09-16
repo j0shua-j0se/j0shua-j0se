@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/j0shuaj0se"><img src="https://img.shields.io/badge/LinkedIn-j0shuaj0se-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://joshua-jose-portfolio-2a9njtk8j.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-0B1D33?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+  <a href="https://joshua-jose-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-0B1D33?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
   <img src="https://img.shields.io/badge/Based_in-Erlangen,_Germany-7FD3C7?style=for-the-badge&logo=googlemaps&logoColor=0B1D33" alt="Erlangen, Germany">
   <img src="https://img.shields.io/badge/Open_to-Werkstudent_roles-F5B642?style=for-the-badge&logoColor=0B1D33" alt="Open to Werkstudent roles">
 </p>
@@ -63,6 +63,7 @@ and I care about what it takes to *run* a model, not only to train it.
 | 📈 [**quantforge**](https://github.com/j0shua-j0se/quantforge) | Execution-aware portfolio policy learning: walk-forward backtesting, CVaR risk metrics, experiment tracking | Python · MLflow · Docker |
 | 🧠 [**ai-engineering-portfolio**](https://github.com/j0shua-j0se/ai-engineering-portfolio) | Build log: working through *AI Engineering from Scratch*, one runnable artifact per lesson | Python |
 | 🩺 [**breast-cancer-logistic-regression**](https://github.com/j0shua-j0se/breast-cancer-logistic-regression) | Binary classifier with ROC / precision-recall analysis and threshold tuning: **ROC-AUC 0.996**, accuracy 0.96 | scikit-learn |
+| 📦 [**walmart-sales-forecasting**](https://github.com/j0shua-j0se/walmart-sales-forecasting) | Weekly sales forecast for 45 stores with past-only lag features and a chronological split: XGBoost **R² 0.987**, MAE 17.9% below a naive baseline | XGBoost · pandas |
 | 🧪 [**breast-cancer-svm**](https://github.com/j0shua-j0se/breast-cancer-svm) | Linear vs RBF SVMs tuned with GridSearchCV and stratified CV: test accuracy 0.974 | scikit-learn |
 
 <details>
@@ -81,5 +82,5 @@ and I care about what it takes to *run* a model, not only to train it.
 
 <p align="center">
   <i>Let's talk about ML, data, or a Werkstudent role:</i><br>
-  <a href="https://www.linkedin.com/in/j0shuaj0se"><b>LinkedIn</b></a> · <a href="https://joshua-jose-portfolio-2a9njtk8j.vercel.app"><b>Portfolio</b></a>
+  <a href="https://www.linkedin.com/in/j0shuaj0se"><b>LinkedIn</b></a> · <a href="https://joshua-jose-portfolio.vercel.app"><b>Portfolio</b></a>
 </p>
