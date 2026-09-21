@@ -37,7 +37,7 @@ and I care about what it takes to *run* a model, not only to train it.
 ### 🧰 Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,opencv,sqlite,docker,git,github,gcp,vscode&perline=10" alt="Tech stack">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,sqlite,docker,git,github,gcp&perline=10" alt="Tech stack">
 </p>
 
 <p align="center">
@@ -45,7 +45,8 @@ and I care about what it takes to *run* a model, not only to train it.
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy">
   <img src="https://img.shields.io/badge/XGBoost-1B6AC6?style=flat-square" alt="XGBoost">
   <img src="https://img.shields.io/badge/YOLO-Ultralytics-111F68?style=flat-square" alt="YOLO">
-  <img src="https://img.shields.io/badge/Vertex_AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Vertex AI">
+  <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Google Gemini API">
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit">
   <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle Cloud">
   <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" alt="MLflow">
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logoColor=black" alt="Power BI">
